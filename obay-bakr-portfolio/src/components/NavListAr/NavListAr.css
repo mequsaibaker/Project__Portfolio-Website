@@ -1,0 +1,20 @@
+.nav-list {
+    list-style-type: none;
+    display: flex;
+    gap: 24px;
+    width: fit-content;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-list li>a {
+    text-decoration: none;
+    color: #0F1015;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.nav-list li>a:hover {
+    text-decoration: underline;
+    color: #443E4A;
+}
