@@ -1,9 +1,9 @@
 {
-  "homepage": "https://mequsaibaker.github.io/Project__Portfolio-Website",
   "name": "obay-bakr-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://mequsaibaker.github.io/Project__Portfolio-Website/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
